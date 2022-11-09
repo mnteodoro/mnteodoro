@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate front-end developer from the Philippines</h3>
+<h1 align="center">Hi, I'm Mark!</h1>
+<h3 align="center">A Passionate Front-End Developer</h3>
 
-- 💬 Ask me about **react, tailwind, and next.js**
+- 💬 Ask me about **React, Tailwind, and Next.js!**
 
-- 📫 How to reach me **mnteodoro@up.edu.ph**
+- 📫 Contact me at **mnteodoro@up.edu.ph**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/14lzxyWCM-RLFbfWsa5sg3a-QCovVoG_y?usp=share_link](https://drive.google.com/drive/folders/14lzxyWCM-RLFbfWsa5sg3a-QCovVoG_y?usp=share_link)
 
