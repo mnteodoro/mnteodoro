@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mark!</h1>
-<h3 align="center">A Front-End Developer</h3>
+<h3 align="center">A Front-End Web Developer</h3>
 
 - 💬 Ask me about **React, Tailwind, and Next.js!**
 
