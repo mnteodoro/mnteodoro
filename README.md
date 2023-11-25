@@ -5,8 +5,6 @@
 
 - 📫 Contact me at **mnteodoro@up.edu.ph**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/14lzxyWCM-RLFbfWsa5sg3a-QCovVoG_y?usp=share_link](https://drive.google.com/drive/folders/14lzxyWCM-RLFbfWsa5sg3a-QCovVoG_y?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/markteodoro08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="markteodoro08" height="30" width="40" /></a>
